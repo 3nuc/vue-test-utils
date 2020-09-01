@@ -38,7 +38,7 @@ test('trigger demo', async () => {
 })
 ```
 
-- **Setting the event target:**
+### Setting the event target:
 
 Under the hood, `trigger` creates an `Event` object and dispatches the event on the Wrapper element.
 
